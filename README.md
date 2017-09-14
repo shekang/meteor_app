@@ -1,2 +1,2 @@
-# meteor_app
-meteor练习
+﻿# meteor_app
+meteor test
