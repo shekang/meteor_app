@@ -1,3 +1,3 @@
 ﻿# meteor_app
-meteor test
+meteor test  
 
